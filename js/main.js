@@ -40,4 +40,3 @@ function display(){
     document.getElementById("myData").innerHTML = temp;
     
 }
-//"location.href = '${productList[i].url}'"
